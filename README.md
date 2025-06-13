@@ -8,7 +8,6 @@ Si tratta di un **prototipo completo** di sito dedicato alla vendita di **perife
 ## 🔗 Live Demo
 
 👉 [Guarda il progetto online](https://stride-shop.netlify.app)  
-*(Sostituisci con il link se è online – altrimenti puoi rimuovere questa sezione)*
 
 ---
 
