@@ -42,9 +42,7 @@ Si tratta di un **prototipo completo** di sito dedicato alla vendita di **perife
 
 ## 🖥️ Screenshot
 
-> *(Inserisci qui immagini del sito per valorizzarlo)*
-
-```markdown
-![Home](./screenshots/home.png)
-![Product Page](./screenshots/product-page.png)
-![Checkout](./screenshots/checkout.png)
+![Home](./homeST.png)
+![Catalogo](./catST.png)
+![Product Page](./prodST.png)
+![Form](./formST.png)
